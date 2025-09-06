@@ -19,6 +19,7 @@ public class Formulario extends JFrame {
     private JRadioButton rbtMasculino;
     private JRadioButton rbtNoCorresponde;
     private JLabel lblPablo;
+    private JLabel lblGuille;
 
     public Formulario(){
 
